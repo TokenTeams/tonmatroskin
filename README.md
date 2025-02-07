@@ -64,7 +64,6 @@
         }
     </style>
     <link href="//s.siteapi.org/frontend/static/grid_12/css/layouts.c8a8f6.min.css" rel="stylesheet" type="text/css"/>
-    <link rel="canonical" href="https://papacarlocoin.nethouse.ru/">
     <style type="text/css">
         :root {
             --button-default-color : #FFFFFF;
@@ -133,7 +132,6 @@
                                         <section id="company-logo" class="block-1 widget-block widget-logo nh-editor-panel">
                                             <div id="site-logo" class="widget-logo__image">
                                                 <link rel="image_src" href="//i.siteapi.org/f0M8Rit9pdhLhd50mLid_9klVhM=/0x0:256x256/fit-in/215x128/s2.siteapi.org/e6a8abe8c84740c/logo/2h6ahwblbg00o4wwowo44w4kwgsgws"/>
-                                                <a href="https://papacarlocoin.nethouse.ru/">
                                                     <picture>
                                                         <source srcset="//i.siteapi.org/Fy7QiRCmEo257v5EA5aMF78XA3I=/0x0:256x256/fit-in/215x128/filters:format(webp)/s2.siteapi.org/e6a8abe8c84740c/logo/2h6ahwblbg00o4wwowo44w4kwgsgws 1x, //i.siteapi.org/AbS9KtYJoo6gxdCqp8wMJa0LAXk=/0x0:256x256/fit-in/430x256/filters:format(webp)/s2.siteapi.org/e6a8abe8c84740c/logo/2h6ahwblbg00o4wwowo44w4kwgsgws 2x" 
                                                             type="image/webp"/>
