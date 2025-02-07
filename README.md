@@ -49,10 +49,10 @@
                 --menu-logo-width : 215px;
                 --menu-vertical-align : center;
                 --menu-links-underline-on-hover : 1;
-                --menu-sticky : absolute;
+                --menu-sticky : sticky;
                 --menu-font-size : 0.75rem;
                 --menu-width : 84.5rem;
-                --menu-bg-blur : blur(32px);
+                --menu-bg-blur : none;
                 --menu-menu_layering : 1;
                 --menu-color : #000000;
                 --menu-color-hover : #000000;
