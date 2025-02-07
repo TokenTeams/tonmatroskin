@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<! DOCTYPE html>
 <html lang="ru-RU">
 <head>
     <meta name="viewport"
@@ -383,3 +383,4 @@
 <script src="//s.siteapi.org/frontend/static/grid_12/js/vendor-a7baa6bdbf.min.js" id="js/vendor.min.js" type="text/javascript"></script><script src="//s.siteapi.org/frontend/static/grid_12/js/scripts-43cba81119.js" id="js/scripts.js" type="text/javascript"></script><div id="vk_api_transport"></div>
 </body>
 </html>
+document.querySelector('div[data-widget-store-list="burger-menu"][data-region="2"]').remove();
